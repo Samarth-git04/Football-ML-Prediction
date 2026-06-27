@@ -1,0 +1,7 @@
+.vscode
+.env
+__pyache__/
+*.parquet
+*.csv
+data/raw_data/
+catboost_info/
