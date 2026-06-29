@@ -2,5 +2,9 @@
 .env
 __pyache__/
 *.parquet
-data/raw_data/
+csv/
+parquet/
+*.sqlite
+models/
 catboost_info/
+*.pyc
